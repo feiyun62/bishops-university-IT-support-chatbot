@@ -1,0 +1,164 @@
+[
+  {
+    "intent_id": 1,
+    "intent_name": "Password Reset - General",
+    "text": "Password Reset - General\nCategory: password\nSteps:\n1) Go to https://passwordreset.microsoftonline.com/\n2) Enter your Bishop's email address (username@ubishops.ca)\n3) Complete the character verification (CAPTCHA)\n4) Choose your authentication method (email, text, phone call, or one-time code)\n5) Follow the verification steps for your chosen method\n6) Create a new password meeting all requirements\n7) Your password will be changed for ALL Bishop's services (Moodle, MyBU, Email, etc.)",
+    "steps": "1) Go to https://passwordreset.microsoftonline.com/\n2) Enter your Bishop's email address (username@ubishops.ca)\n3) Complete the character verification (CAPTCHA)\n4) Choose your authentication method (email, text, phone call, or one-time code)\n5) Follow the verification steps for your chosen method\n6) Create a new password meeting all requirements\n7) Your password will be changed for ALL Bishop's services (Moodle, MyBU, Email, etc.)",
+    "primary_link": "https://passwordreset.microsoftonline.com/",
+    "secondary_link": "https://support.ubishops.ca/security-passwords/how-to-change-your-password/",
+    "category": "password"
+  },
+  {
+    "intent_id": 2,
+    "intent_name": "Moodle Password Reset",
+    "text": "Moodle Password Reset\nCategory: password\nSteps:\n1) Your Moodle password is the SAME as your Bishop's account password\n2) Go to https://passwordreset.microsoftonline.com/\n3) Enter your Bishop's email (username@ubishops.ca)\n4) Complete verification and reset your password\n5) This will reset password for ALL Bishop's services\n6) Login to Moodle at https://moodle.ubishops.ca with your username (no @ubishops.ca) and new password",
+    "steps": "1) Your Moodle password is the SAME as your Bishop's account password\n2) Go to https://passwordreset.microsoftonline.com/\n3) Enter your Bishop's email (username@ubishops.ca)\n4) Complete verification and reset your password\n5) This will reset password for ALL Bishop's services\n6) Login to Moodle at https://moodle.ubishops.ca with your username (no @ubishops.ca) and new password",
+    "primary_link": "https://passwordreset.microsoftonline.com/",
+    "secondary_link": "https://moodle.ubishops.ca/",
+    "category": "password"
+  },
+  {
+    "intent_id": 3,
+    "intent_name": "Email/Outlook Password Reset",
+    "text": "Email/Outlook Password Reset\nCategory: password\nSteps:\n1) Go to https://office.com and click 'Sign In'\n2) Enter your Bishop's email address\n3) Click 'Forgot my password' at the password page\n4) Complete verification (requires MFA setup)\n5) Create new password with requirements\n6) Password change affects ALL Bishop's services",
+    "steps": "1) Go to https://office.com and click 'Sign In'\n2) Enter your Bishop's email address\n3) Click 'Forgot my password' at the password page\n4) Complete verification (requires MFA setup)\n5) Create new password with requirements\n6) Password change affects ALL Bishop's services",
+    "primary_link": "https://passwordreset.microsoftonline.com/",
+    "secondary_link": "https://outlook.office365.com/",
+    "category": "password"
+  },
+  {
+    "intent_id": 4,
+    "intent_name": "Connect to WIZABU WiFi",
+    "text": "Connect to WIZABU WiFi\nCategory: network\nSteps:\n1) Select 'WIZABU' from available networks\n2) Enter your Bishop's username (e.g., JSMITH12 - no @ubishops.ca)\n3) Enter your Bishop's password\n4) Accept any security certificates if prompted\n5) You should now be connected to WIZABU\n6) WIZABU works in all buildings and many outdoor spaces",
+    "steps": "1) Select 'WIZABU' from available networks\n2) Enter your Bishop's username (e.g., JSMITH12 - no @ubishops.ca)\n3) Enter your Bishop's password\n4) Accept any security certificates if prompted\n5) You should now be connected to WIZABU\n6) WIZABU works in all buildings and many outdoor spaces",
+    "primary_link": "https://support.ubishops.ca/wizabu-bishops/",
+    "secondary_link": "https://support.ubishops.ca/wireless-internet-bishops/",
+    "category": "network"
+  },
+  {
+    "intent_id": 5,
+    "intent_name": "Gaming Console/Smart Device Connection",
+    "text": "Gaming Console/Smart Device Connection\nCategory: network\nSteps:\n1) These devices CANNOT connect to WIZABU\n2) Use a wired ethernet connection in your residence room\n3) Locate the ethernet port in your room\n4) Connect an ethernet cable from device to wall port\n5) Device should automatically obtain network settings\n6) No username/password needed for wired connections",
+    "steps": "1) These devices CANNOT connect to WIZABU\n2) Use a wired ethernet connection in your residence room\n3) Locate the ethernet port in your room\n4) Connect an ethernet cable from device to wall port\n5) Device should automatically obtain network settings\n6) No username/password needed for wired connections",
+    "primary_link": "https://support.ubishops.ca/students-bishops/",
+    "secondary_link": "nan",
+    "category": "network"
+  },
+  {
+    "intent_id": 6,
+    "intent_name": "How to Print on Campus",
+    "text": "How to Print on Campus\nCategory: printing\nSteps:\n1) Ensure you have Gaiter Dollars for printing\n2) From lab computers: Select FollowMe printer when printing\n3) Go to any Xerox photocopier on campus\n4) Swipe your student ID card or login manually\n5) Select 'Print Release' on touchscreen\n6) Select your documents and press 'Print'\n7) Documents stay in queue for 5 days",
+    "steps": "1) Ensure you have Gaiter Dollars for printing\n2) From lab computers: Select FollowMe printer when printing\n3) Go to any Xerox photocopier on campus\n4) Swipe your student ID card or login manually\n5) Select 'Print Release' on touchscreen\n6) Select your documents and press 'Print'\n7) Documents stay in queue for 5 days",
+    "primary_link": "https://support.ubishops.ca/computers-printing/printing-photocopying-scanning/",
+    "secondary_link": "https://myprint.ubishops.ca/",
+    "category": "printing"
+  },
+  {
+    "intent_id": 7,
+    "intent_name": "Web Print - Print from Home",
+    "text": "Web Print - Print from Home\nCategory: printing\nSteps:\n1) Go to https://myprint.ubishops.ca\n2) Login with Bishop's username and password\n3) Click 'Web Print' tab → 'Submit a Job'\n4) Select printer type (B&W or Color, Single or Double-sided)\n5) Upload your PDF or image file\n6) Document will be waiting at any campus Xerox\n7) Release print job when you arrive on campus",
+    "steps": "1) Go to https://myprint.ubishops.ca\n2) Login with Bishop's username and password\n3) Click 'Web Print' tab → 'Submit a Job'\n4) Select printer type (B&W or Color, Single or Double-sided)\n5) Upload your PDF or image file\n6) Document will be waiting at any campus Xerox\n7) Release print job when you arrive on campus",
+    "primary_link": "https://myprint.ubishops.ca/",
+    "secondary_link": "https://support.ubishops.ca/computers-printing/using-web-print/",
+    "category": "printing"
+  },
+  {
+    "intent_id": 8,
+    "intent_name": "Add Gaiter Dollars for Printing",
+    "text": "Add Gaiter Dollars for Printing\nCategory: printing\nSteps:\n1) Add money at machines located in:\n   - Library Learning Commons\n   - Outside the Bookstore\n   - Paterson lobby\n2) Or add online at https://gaiterdollars.ubishops.ca\n3) Login with Bishop's username and password\n4) Add funds using credit/debit card\n5) Gaiter Dollars work for printing, laundry, and campus dining\n6) Credit doesn't expire while account is active",
+    "steps": "1) Add money at machines located in:\n   - Library Learning Commons\n   - Outside the Bookstore\n   - Paterson lobby\n2) Or add online at https://gaiterdollars.ubishops.ca\n3) Login with Bishop's username and password\n4) Add funds using credit/debit card\n5) Gaiter Dollars work for printing, laundry, and campus dining\n6) Credit doesn't expire while account is active",
+    "primary_link": "https://gaiterdollars.ubishops.ca/",
+    "secondary_link": "https://support.ubishops.ca/computers-printing/student-printing/",
+    "category": "printing"
+  },
+  {
+    "intent_id": 9,
+    "intent_name": "Access Moodle",
+    "text": "Access Moodle\nCategory: moodle\nSteps:\n1) Go to https://moodle.ubishops.ca\n2) Click 'Log in' button\n3) Enter Bishop's username (e.g., JSMITH12 - NO @ubishops.ca)\n4) Enter your Bishop's password\n5) You'll see your course dashboard\n6) If course missing, contact your professor or department",
+    "steps": "1) Go to https://moodle.ubishops.ca\n2) Click 'Log in' button\n3) Enter Bishop's username (e.g., JSMITH12 - NO @ubishops.ca)\n4) Enter your Bishop's password\n5) You'll see your course dashboard\n6) If course missing, contact your professor or department",
+    "primary_link": "https://moodle.ubishops.ca/",
+    "secondary_link": "https://support.ubishops.ca/logins-accounts/login-accounts/",
+    "category": "moodle"
+  },
+  {
+    "intent_id": 10,
+    "intent_name": "Submit Assignment on Moodle",
+    "text": "Submit Assignment on Moodle\nCategory: moodle\nSteps:\n1) Login to Moodle at https://moodle.ubishops.ca\n2) Navigate to your course\n3) Find the assignment link\n4) Click 'Add submission'\n5) Upload your file or enter text\n6) Click 'Save changes'\n7) Verify submission status shows 'Submitted for grading'",
+    "steps": "1) Login to Moodle at https://moodle.ubishops.ca\n2) Navigate to your course\n3) Find the assignment link\n4) Click 'Add submission'\n5) Upload your file or enter text\n6) Click 'Save changes'\n7) Verify submission status shows 'Submitted for grading'",
+    "primary_link": "https://moodle.ubishops.ca/",
+    "secondary_link": "nan",
+    "category": "moodle"
+  },
+  {
+    "intent_id": 11,
+    "intent_name": "Access Bishop's Email",
+    "text": "Access Bishop's Email\nCategory: email\nSteps:\n1) Go to https://outlook.office365.com\n2) Or click 'Webmail' link on any Bishop's webpage\n3) Login with full email: username@ubishops.ca\n4) Enter your Bishop's password\n5) Complete MFA if prompted\n6) Access your Bishop's email inbox",
+    "steps": "1) Go to https://outlook.office365.com\n2) Or click 'Webmail' link on any Bishop's webpage\n3) Login with full email: username@ubishops.ca\n4) Enter your Bishop's password\n5) Complete MFA if prompted\n6) Access your Bishop's email inbox",
+    "primary_link": "https://outlook.office365.com/",
+    "secondary_link": "https://portal.office.com/",
+    "category": "email"
+  },
+  {
+    "intent_id": 12,
+    "intent_name": "Setup Multi-Factor Authentication (MFA)",
+    "text": "Setup Multi-Factor Authentication (MFA)\nCategory: email\nSteps:\n1) Go to https://portal.office.com and sign in\n2) You'll be prompted to set up MFA on first login\n3) Choose method: Mobile app (recommended), Phone, or Email\n4) For mobile app: Download Microsoft Authenticator\n5) Scan QR code with the app\n6) Verify with test code\n7) MFA is now required for Office 365 access",
+    "steps": "1) Go to https://portal.office.com and sign in\n2) You'll be prompted to set up MFA on first login\n3) Choose method: Mobile app (recommended), Phone, or Email\n4) For mobile app: Download Microsoft Authenticator\n5) Scan QR code with the app\n6) Verify with test code\n7) MFA is now required for Office 365 access",
+    "primary_link": "https://support.ubishops.ca/email-collaboration/office-365-bishops/office-365-multi-factor-authentication/",
+    "secondary_link": "https://portal.office.com/",
+    "category": "email"
+  },
+  {
+    "intent_id": 13,
+    "intent_name": "Access MyBU Portal",
+    "text": "Access MyBU Portal\nCategory: account\nSteps:\n1) Go to https://mybu.ubishops.ca\n2) Or click 'myBU' link at top of Bishop's website\n3) Login with Bishop's username (e.g., JSMITH12)\n4) Enter your Bishop's password\n5) Access registration, grades, transcripts, and more\n6) For registration help, check Registrar's Office section",
+    "steps": "1) Go to https://mybu.ubishops.ca\n2) Or click 'myBU' link at top of Bishop's website\n3) Login with Bishop's username (e.g., JSMITH12)\n4) Enter your Bishop's password\n5) Access registration, grades, transcripts, and more\n6) For registration help, check Registrar's Office section",
+    "primary_link": "https://mybu.ubishops.ca/",
+    "secondary_link": "https://support.ubishops.ca/logins-accounts/login-accounts/",
+    "category": "account"
+  },
+  {
+    "intent_id": 14,
+    "intent_name": "Bishop's Username Format",
+    "text": "Bishop's Username Format\nCategory: account\nSteps:\n1) Student username format: First letter of first name + Last name + Last 2 digits of start year\n2) Example: John Smith starting 2024 = JSMITH24\n3) Maximum 14 characters total\n4) Faculty/Staff: First letter + up to 8 letters of last name\n5) Your email is: username@ubishops.ca\n6) Use username only (no @ubishops.ca) for most Bishop's services",
+    "steps": "1) Student username format: First letter of first name + Last name + Last 2 digits of start year\n2) Example: John Smith starting 2024 = JSMITH24\n3) Maximum 14 characters total\n4) Faculty/Staff: First letter + up to 8 letters of last name\n5) Your email is: username@ubishops.ca\n6) Use username only (no @ubishops.ca) for most Bishop's services",
+    "primary_link": "https://support.ubishops.ca/it-support-training/your-bishops-account/",
+    "secondary_link": "nan",
+    "category": "account"
+  },
+  {
+    "intent_id": 15,
+    "intent_name": "Contact IT Support",
+    "text": "Contact IT Support\nCategory: support\nSteps:\n1) Visit ITS Helpdesk: Library Learning Commons, 1st floor\n2) Call: 819-822-9600 ext. 2273\n3) Submit ticket: https://octopus.ubishops.ca (login required)\n4) For account issues: email accountsupport@ubishops.ca\n5) Hours: Monday-Friday, 8:30 AM - 4:30 PM\n6) Include error messages and screenshots when reporting issues",
+    "steps": "1) Visit ITS Helpdesk: Library Learning Commons, 1st floor\n2) Call: 819-822-9600 ext. 2273\n3) Submit ticket: https://octopus.ubishops.ca (login required)\n4) For account issues: email accountsupport@ubishops.ca\n5) Hours: Monday-Friday, 8:30 AM - 4:30 PM\n6) Include error messages and screenshots when reporting issues",
+    "primary_link": "https://octopus.ubishops.ca/",
+    "secondary_link": "https://support.ubishops.ca/",
+    "category": "support"
+  },
+  {
+    "intent_id": 16,
+    "intent_name": "Scan Documents",
+    "text": "Scan Documents\nCategory: printing\nSteps:\n1) Go to any Xerox photocopier on campus\n2) Place document on scanner glass or feeder\n3) Login with student ID card or manually\n4) Select 'Email' on touchscreen\n5) Document will be sent to your Bishop's email\n6) Scanning is FREE - no Gaiter Dollars needed",
+    "steps": "1) Go to any Xerox photocopier on campus\n2) Place document on scanner glass or feeder\n3) Login with student ID card or manually\n4) Select 'Email' on touchscreen\n5) Document will be sent to your Bishop's email\n6) Scanning is FREE - no Gaiter Dollars needed",
+    "primary_link": "https://support.ubishops.ca/printing-photocopying-scanning/how-to-scan-on-a-xerox-photocopier/",
+    "secondary_link": "nan",
+    "category": "printing"
+  },
+  {
+    "intent_id": 17,
+    "intent_name": "Microsoft Office Access",
+    "text": "Microsoft Office Access\nCategory: software\nSteps:\n1) Go to https://portal.office.com\n2) Login with username@ubishops.ca and password\n3) Use online versions directly in browser\n4) Full-time students/faculty can download desktop apps:\n   - Click your profile icon → View account\n   - Click 'Install Office' \n5) Installation available on up to 5 devices",
+    "steps": "1) Go to https://portal.office.com\n2) Login with username@ubishops.ca and password\n3) Use online versions directly in browser\n4) Full-time students/faculty can download desktop apps:\n   - Click your profile icon → View account\n   - Click 'Install Office' \n5) Installation available on up to 5 devices",
+    "primary_link": "https://portal.office.com/",
+    "secondary_link": "nan",
+    "category": "software"
+  },
+  {
+    "intent_id": 18,
+    "intent_name": "Off-Campus Access",
+    "text": "Off-Campus Access\nCategory: network\nSteps:\n1) Most Bishop's services work off-campus without VPN\n2) For library databases: Use EZProxy login\n3) Go to library website and select resource\n4) Login with Bishop's credentials when prompted\n5) For other restricted resources, contact ITS about VPN access\n6) VPN setup requires IT approval and configuration",
+    "steps": "1) Most Bishop's services work off-campus without VPN\n2) For library databases: Use EZProxy login\n3) Go to library website and select resource\n4) Login with Bishop's credentials when prompted\n5) For other restricted resources, contact ITS about VPN access\n6) VPN setup requires IT approval and configuration",
+    "primary_link": "https://support.ubishops.ca/",
+    "secondary_link": "nan",
+    "category": "network"
+  }
+]

@@ -1,0 +1,118 @@
+intent_id,intent_name,triggers,steps,primary_link,secondary_link,escalation,category,ambiguity_level
+1,Password Reset - General,"['password', 'forgot password', ""can't login"", 'reset password', 'locked out', 'pwd', 'forgotten password', 'password expired']","1) Go to https://passwordreset.microsoftonline.com/
+2) Enter your Bishop's email address (username@ubishops.ca)
+3) Complete the character verification (CAPTCHA)
+4) Choose your authentication method (email, text, phone call, or one-time code)
+5) Follow the verification steps for your chosen method
+6) Create a new password meeting all requirements
+7) Your password will be changed for ALL Bishop's services (Moodle, MyBU, Email, etc.)",https://passwordreset.microsoftonline.com/,https://support.ubishops.ca/security-passwords/how-to-change-your-password/,"If you haven't set up MFA, contact ITS at 819-822-9600 ext. 2273 or visit Library Learning Commons",password,high
+2,Moodle Password Reset,"['moodle password', ""can't access moodle"", 'moodle login', 'forgot moodle password', 'moodle account']","1) Your Moodle password is the SAME as your Bishop's account password
+2) Go to https://passwordreset.microsoftonline.com/
+3) Enter your Bishop's email (username@ubishops.ca)
+4) Complete verification and reset your password
+5) This will reset password for ALL Bishop's services
+6) Login to Moodle at https://moodle.ubishops.ca with your username (no @ubishops.ca) and new password",https://passwordreset.microsoftonline.com/,https://moodle.ubishops.ca/,Contact ITS Helpdesk at 819-822-9600 ext. 2273,password,low
+3,Email/Outlook Password Reset,"['email password', 'outlook password', 'webmail password', ""can't access email"", 'office 365 password']","1) Go to https://office.com and click 'Sign In'
+2) Enter your Bishop's email address
+3) Click 'Forgot my password' at the password page
+4) Complete verification (requires MFA setup)
+5) Create new password with requirements
+6) Password change affects ALL Bishop's services",https://passwordreset.microsoftonline.com/,https://outlook.office365.com/,"If no MFA setup, contact ITS: 819-822-9600 ext. 2273",password,low
+4,Connect to WIZABU WiFi,"['wifi', 'wizabu', 'wireless', 'internet', 'network', ""can't connect"", 'wifi password', 'wifi setup']","1) Select 'WIZABU' from available networks
+2) Enter your Bishop's username (e.g., JSMITH12 - no @ubishops.ca)
+3) Enter your Bishop's password
+4) Accept any security certificates if prompted
+5) You should now be connected to WIZABU
+6) WIZABU works in all buildings and many outdoor spaces",https://support.ubishops.ca/wizabu-bishops/,https://support.ubishops.ca/wireless-internet-bishops/,Visit ITS Helpdesk in Library Learning Commons or call 819-822-9600 ext. 2273,network,low
+5,Gaming Console/Smart Device Connection,"['xbox', 'playstation', 'alexa', 'smart tv', 'gaming', 'console', 'smart speaker']","1) These devices CANNOT connect to WIZABU
+2) Use a wired ethernet connection in your residence room
+3) Locate the ethernet port in your room
+4) Connect an ethernet cable from device to wall port
+5) Device should automatically obtain network settings
+6) No username/password needed for wired connections",https://support.ubishops.ca/students-bishops/,,"For wired connection issues, contact ITS: 819-822-9600 ext. 2273",network,low
+6,How to Print on Campus,"['print', 'printing', 'printer', 'how to print', 'print document']","1) Ensure you have Gaiter Dollars for printing
+2) From lab computers: Select FollowMe printer when printing
+3) Go to any Xerox photocopier on campus
+4) Swipe your student ID card or login manually
+5) Select 'Print Release' on touchscreen
+6) Select your documents and press 'Print'
+7) Documents stay in queue for 5 days",https://support.ubishops.ca/computers-printing/printing-photocopying-scanning/,https://myprint.ubishops.ca/,Visit ITS Helpdesk in Library Learning Commons for printing issues,printing,medium
+7,Web Print - Print from Home,"['web print', 'print from home', 'remote printing', 'upload print', 'print from laptop']","1) Go to https://myprint.ubishops.ca
+2) Login with Bishop's username and password
+3) Click 'Web Print' tab → 'Submit a Job'
+4) Select printer type (B&W or Color, Single or Double-sided)
+5) Upload your PDF or image file
+6) Document will be waiting at any campus Xerox
+7) Release print job when you arrive on campus",https://myprint.ubishops.ca/,https://support.ubishops.ca/computers-printing/using-web-print/,"For web print issues, contact ITS: 819-822-9600 ext. 2273",printing,low
+8,Add Gaiter Dollars for Printing,"['gaiter dollars', 'add money', 'print credit', 'printing money', 'no credit']","1) Add money at machines located in:
+   - Library Learning Commons
+   - Outside the Bookstore
+   - Paterson lobby
+2) Or add online at https://gaiterdollars.ubishops.ca
+3) Login with Bishop's username and password
+4) Add funds using credit/debit card
+5) Gaiter Dollars work for printing, laundry, and campus dining
+6) Credit doesn't expire while account is active",https://gaiterdollars.ubishops.ca/,https://support.ubishops.ca/computers-printing/student-printing/,"For Gaiter Dollar issues, visit Paterson front desk",printing,low
+9,Access Moodle,"['moodle', 'course access', 'moodle login', ""can't see course"", 'moodle problem']","1) Go to https://moodle.ubishops.ca
+2) Click 'Log in' button
+3) Enter Bishop's username (e.g., JSMITH12 - NO @ubishops.ca)
+4) Enter your Bishop's password
+5) You'll see your course dashboard
+6) If course missing, contact your professor or department",https://moodle.ubishops.ca/,https://support.ubishops.ca/logins-accounts/login-accounts/,"For Moodle technical issues, contact ITS: 819-822-9600 ext. 2273",moodle,low
+10,Submit Assignment on Moodle,"['submit assignment', 'upload assignment', 'moodle submission', 'hand in', 'assignment upload']","1) Login to Moodle at https://moodle.ubishops.ca
+2) Navigate to your course
+3) Find the assignment link
+4) Click 'Add submission'
+5) Upload your file or enter text
+6) Click 'Save changes'
+7) Verify submission status shows 'Submitted for grading'",https://moodle.ubishops.ca/,,"For submission issues, contact your professor first, then ITS if technical",moodle,low
+11,Access Bishop's Email,"['email', 'check email', 'webmail', 'outlook', 'email login']","1) Go to https://outlook.office365.com
+2) Or click 'Webmail' link on any Bishop's webpage
+3) Login with full email: username@ubishops.ca
+4) Enter your Bishop's password
+5) Complete MFA if prompted
+6) Access your Bishop's email inbox",https://outlook.office365.com/,https://portal.office.com/,"For email access issues, contact ITS: 819-822-9600 ext. 2273",email,medium
+12,Setup Multi-Factor Authentication (MFA),"['mfa', 'multi-factor', 'two factor', 'authentication', 'verification code', 'authenticator']","1) Go to https://portal.office.com and sign in
+2) You'll be prompted to set up MFA on first login
+3) Choose method: Mobile app (recommended), Phone, or Email
+4) For mobile app: Download Microsoft Authenticator
+5) Scan QR code with the app
+6) Verify with test code
+7) MFA is now required for Office 365 access",https://support.ubishops.ca/email-collaboration/office-365-bishops/office-365-multi-factor-authentication/,https://portal.office.com/,"For MFA setup help, visit ITS Helpdesk in person",email,low
+13,Access MyBU Portal,"['mybu', 'portal', 'student portal', 'self-service', 'registration', 'grades']","1) Go to https://mybu.ubishops.ca
+2) Or click 'myBU' link at top of Bishop's website
+3) Login with Bishop's username (e.g., JSMITH12)
+4) Enter your Bishop's password
+5) Access registration, grades, transcripts, and more
+6) For registration help, check Registrar's Office section",https://mybu.ubishops.ca/,https://support.ubishops.ca/logins-accounts/login-accounts/,"For myBU issues, contact Registrar: 819-822-9600 ext. 2680",account,low
+14,Bishop's Username Format,"['username', ""what's my username"", 'account name', 'login name', 'user id']","1) Student username format: First letter of first name + Last name + Last 2 digits of start year
+2) Example: John Smith starting 2024 = JSMITH24
+3) Maximum 14 characters total
+4) Faculty/Staff: First letter + up to 8 letters of last name
+5) Your email is: username@ubishops.ca
+6) Use username only (no @ubishops.ca) for most Bishop's services",https://support.ubishops.ca/it-support-training/your-bishops-account/,,"If unsure of username, contact Admissions: 819-822-9600 ext. 2680",account,low
+15,Contact IT Support,"['help', 'support', 'it help', 'helpdesk', 'technical support', 'contact it']","1) Visit ITS Helpdesk: Library Learning Commons, 1st floor
+2) Call: 819-822-9600 ext. 2273
+3) Submit ticket: https://octopus.ubishops.ca (login required)
+4) For account issues: email accountsupport@ubishops.ca
+5) Hours: Monday-Friday, 8:30 AM - 4:30 PM
+6) Include error messages and screenshots when reporting issues",https://octopus.ubishops.ca/,https://support.ubishops.ca/,"For urgent issues, visit the helpdesk in person",support,low
+16,Scan Documents,"['scan', 'scanning', 'scanner', 'scan to email', 'digitize']","1) Go to any Xerox photocopier on campus
+2) Place document on scanner glass or feeder
+3) Login with student ID card or manually
+4) Select 'Email' on touchscreen
+5) Document will be sent to your Bishop's email
+6) Scanning is FREE - no Gaiter Dollars needed",https://support.ubishops.ca/printing-photocopying-scanning/how-to-scan-on-a-xerox-photocopier/,,"For scanning issues, ask lab consultant or ITS Helpdesk",printing,low
+17,Microsoft Office Access,"['word', 'excel', 'powerpoint', 'office', 'microsoft 365', 'office download']","1) Go to https://portal.office.com
+2) Login with username@ubishops.ca and password
+3) Use online versions directly in browser
+4) Full-time students/faculty can download desktop apps:
+   - Click your profile icon → View account
+   - Click 'Install Office' 
+5) Installation available on up to 5 devices",https://portal.office.com/,,"For Office 365 issues, contact ITS: 819-822-9600 ext. 2273",software,low
+18,Off-Campus Access,"['vpn', 'remote access', 'off campus', 'from home', 'library resources']","1) Most Bishop's services work off-campus without VPN
+2) For library databases: Use EZProxy login
+3) Go to library website and select resource
+4) Login with Bishop's credentials when prompted
+5) For other restricted resources, contact ITS about VPN access
+6) VPN setup requires IT approval and configuration",https://support.ubishops.ca/,,"For VPN setup, contact ITS: 819-822-9600 ext. 2273",network,medium
