@@ -1,4 +1,3 @@
-# pipeline.py (drop-in replacement)
 from typing import Dict, Any, List
 from pathlib import Path
 import json, re, math
@@ -10,7 +9,6 @@ ARTIFACTS_DIR = Path(__file__).resolve().parent / "artifacts"
 CLARIFIER_PATH = ARTIFACTS_DIR / "clarifier.json"
 DOCS_PATH = ARTIFACTS_DIR / "docs.json"
 
-# thresholds (you can tweak)
 TOP1_DIRECT_ANSWER = 0.75  # >= -> answer directly
 TOP1_MIN_IN_DOMAIN = 0.60  # <  -> likely out-of-scope
 MIN_TOKENS = 2             # too-short queries are usually small talk
